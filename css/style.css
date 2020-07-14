@@ -1,0 +1,70 @@
+.body {
+	padding: 5%;
+}
+.atas{
+	background-color: ;
+	padding: 5% 0 5%
+}
+.text-atas h1{
+color: #000000;
+}
+.text-atas p{
+color: #000000;
+}
+.judul h1 {
+	margin: 5% 0;
+	background-color: #red;
+}
+.copyright {
+	background-color: #c41617;
+	padding: 1% 0;
+}
+.copyright p {
+	color: #fff
+}
+.copyright a {
+	color: #000;
+}
+.copyright a:hover {
+	text-decoration: none;
+	color: #fff;
+}
+.table1 {
+	font-family: sans-serif;
+	color: #232323;
+	border-collapse: collapse;
+}
+.table1, tr, td{
+	border: 1px solid #F0E68C;
+	padding: 8px 20px;
+	background-color: #00FF7F;
+}
+.table1 tr th{
+	background-color: #2E8B57;
+	padding: 8px 20px;
+	color: #fff;
+	font-weight: normal;
+} 
+/* Login */
+body {
+	background-image: url(../gambar/2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.bg { 
+	no-repeat; 
+	width: 100%; 
+    height: 100vh;
+    padding: 10% 15%;
+}
+.Login {
+    color: #fff
+    margin: 8% 5%;
+}
+.Password {
+	margin: 1% 0;
+}
+
+.Submit {
+	margin: 1% 0;
+}
